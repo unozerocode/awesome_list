@@ -1,0 +1,5 @@
+%{
+  "castore": {:hex, :castore, "0.1.4", "e7fd082c0e755716826a20b95c479f5dd42f536f9d12b8da8f47c92f1d4aed58", [:mix], [], "hexpm"},
+  "jason": {:hex, :jason, "1.1.2", "b03dedea67a99223a2eaf9f1264ce37154564de899fd3d8b9a21b1a6fd64afe7", [:mix], [{:decimal, "~> 1.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm"},
+  "mint": {:hex, :mint, "1.0.0", "ca5ab33497ba2bdcc42f6cdd3927420a6159116be87c8173658e93c8746703da", [:mix], [{:castore, "~> 0.1.0", [hex: :castore, repo: "hexpm", optional: true]}], "hexpm"},
+}
